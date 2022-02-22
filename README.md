@@ -27,3 +27,4 @@ print(format(d,".2f"))
 
 
 ### RESULT:
+Thus the program to find the distance between two points
